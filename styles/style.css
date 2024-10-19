@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(8, 16, 48);
+    color: aliceblue;
+    background: linear-gradient(to right, #032e38 12%, #18020d 100%);
+    text-align: center;
+    font-size: larger;
+    color: black;
+   
+
+    
+    
+    h1{
+        color: black;
+    }
+    h3,p{
+    color: black;
+}
+
+    }
+    button{
+        color: rgb(0, 0, 0);
+        background-color: rgb(240, 234, 234);
+    }
+    form{
+        color: black;
+    }
+    ul,li,ol{
+        text-align: left;
+    }
+    fieldset{
+        color: #f5f4f4;
+        text-shadow: #ff0000;
+        border-radius: 4ch;
+        width: fit-content;
+        margin: auto;
+        border-width: 2cap;
+        border-color: #f5f0f0;
+        border-style: groove;    
+        text-decoration: wavy;
+        text-emphasis: auto;}
+        
+        
+            
+          
+        
+
